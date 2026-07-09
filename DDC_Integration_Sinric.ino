@@ -21,8 +21,8 @@
 #include <AsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 
-#define APP_KEY "7d4abec3-7596-4b2d-80bf-1d3680161a53"
-#define APP_SECRET "e8a9e04c-abc5-4602-92fd-a7815f16f04d-6a318f30-d88b-420f-bae9-c90eb47b1475"
+#define APP_KEY "xxxxxx.xxxxx.xxxx"
+#define APP_SECRET "xxxxx.xxxx.xxxx.xxxxx"
 
 #define BAUD_RATE 115200
 #define SAMPLE_EVERY_SEC 60
