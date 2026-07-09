@@ -1,5 +1,5 @@
 // The Sketch is developed and implemented by Sunil Pallikkara Balakrishnan
-// https:cloudcontrol.tech
+// https://cloudcontrol.tech
 // sunil@cloudcontrol.tech
 // Using Sinric.pro as the IoT cloud platform
 
