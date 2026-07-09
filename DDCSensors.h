@@ -5,7 +5,7 @@
 #define TEMP_SENSOR_ID    "6a0f46e1baa50bf9bf399860"
 
 #define BUTTON_PIN 35   // GPIO for BUTTON (inverted: LOW = pressed, HIGH = released)
-#define LED_PIN   5   // GPIO for LED (inverted)
+#define LED_PIN   5   // GPIO for LED
 
 #define EVENT_WAIT_TIME   60000
 
